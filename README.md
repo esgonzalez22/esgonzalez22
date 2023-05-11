@@ -1,5 +1,5 @@
 <h2 style="text-align: center;"> Hello 👋 I am a passionate Sofwate Engineer and Freedinving 🦈🤿 </h2> 
-
+<img src="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/blue-silence-one-ocean-one-breath.jpg" alt="Freediving image"/>
 <!--
 **esgonzalez22/esgonzalez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
